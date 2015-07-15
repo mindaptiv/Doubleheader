@@ -22,4 +22,5 @@ josh@mindaptiv.com
 chris@mindaptiv.com
 
 ## About
-Doubleheader is named for the one-two punch of combining deployment to EB via Git/EB CLI & S3 synchronization w/ EB via s3cmd.  We found many tutorials online for how to do each piece separate, but none that used both in tandem.  We believe integrating both features into a single automated deployment process can help the user focus more on developing and testing their website in a rapid fashion.
+![doubleheader](https://cloud.githubusercontent.com/assets/2531841/8708009/99414c76-2af6-11e5-8c4b-0b064189a783.jpg)
+Doubleheader is named for the one-two punch of combining deployment to EB via Git/EB CLI & S3 synchronization w/ EB via s3cmd.  We found many tutorials online for how to do each piece separate, but none that used both in tandem.  We believe integrating both features into a single automated deployment process can help the user focus more on developing and testing their website in a rapid fashion.  Doubleheader is also named for the ~2 week endeavor of guess/check/test/re-test trial-&-error work between two team members to get the process streamlined and working for a production website, and shows (just like the 1989 Transformers Pretender character), two heads can be better than one.
