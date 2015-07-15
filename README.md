@@ -18,7 +18,7 @@ Doubleheader is a basic example project that will require minimal modification f
 If everything worked as expected, congratulations!
 
 ## Contact
-josh@mindaptiv.com
+josh@mindaptiv.com  
 chris@mindaptiv.com
 
 ## About
